@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pillow
+deep-translator
+torch
+torchvision
